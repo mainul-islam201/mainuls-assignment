@@ -1,0 +1,67 @@
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 800;
+    color: white; 
+    display: inline-block;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 5%;
+    margin-top: 5%;
+}
+.half-img{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+img{
+    width: 100%;
+    
+}
+h1{
+    font-size:50px;
+}
+h2{
+    font-size: 30px;
+    margin-top: 5%;
+    padding-top: 10%;
+}
+span{
+    color: tomato;
+}
+.work{
+      width: 30%;
+      float:left;
+      margin-top: 5%;
+      margin-left:3%;
+     
+}
+section{
+    height: 500px;
+}
+.project{
+    text-align:center;
+    font-size: 30px;
+    display: inline-block;
+    
+}
+.banner{
+    background-image: url(shapes/Group_33094_1.png);
+    display:block;
+    background-size: cover;
+    height: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-position: center;
+    border-radius: 10px;
+}
+.inquiry{
+    color: white;
+}
+
